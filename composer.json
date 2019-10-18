@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "4.0.0",
+        "slim/psr7": "^0.6.0",
+        "catfan/medoo": "^1.7",
+        "emarref/jwt": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
